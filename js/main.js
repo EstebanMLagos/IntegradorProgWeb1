@@ -7,9 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const nextBtn = carousel.querySelector('.carousel-btn.next');
 // en el bloque de abajo vas a tener el texto que se ve en el index
     const images = [
-      'https://placehold.co/900x450/4A5B3D/F5F5F5?text=Pone+Lo+Que+Quieras+Aca',
-      'https://placehold.co/900x450/BDB7AB/333333?text=Aca+Tambien',
-      'https://placehold.co/900x450/333333/FFFFFF?text=Aca+Tambien'
+      'img/F-16.jpg',
+      'img/imagen8.jpg',
+      'img/tam2ca2.jpg'
     ];
 
     let currentIndex = 0;
