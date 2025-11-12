@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // en el bloque de abajo vas a tener el texto que se ve en el index
     const images = [
       'img/F-16.jpg',
-      'img/imagen8.jpg',
+      'img/Imagen8.jpg',
       'img/tam2ca2.jpg'
     ];
 
